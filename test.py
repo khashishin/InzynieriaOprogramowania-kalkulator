@@ -13,4 +13,6 @@ def dodaj(a,b):
 pierwsza = input()
 druga = input()
 
+#To jest komentarz, ktory dodam tylko zeby sprawdzic czy dziala commit po ssh
+
 print (dodaj(pierwsza, druga))
